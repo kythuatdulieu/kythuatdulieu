@@ -1,16 +1,15 @@
-## Hi there 👋
+## kythuatdulieu
 
-<!--
-**kythuatdulieu/kythuatdulieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Engineering notes in Vietnamese.
 
-Here are some ideas to get you started:
+**Main site**: [kythuatdulieu.github.io](https://kythuatdulieu.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Practice repos**
+
+- [EcomLake](https://github.com/kythuatdulieu/EcomLake) — ELT pipeline with Dagster, Spark, Delta Lake
+- [snowflakedemo](https://github.com/kythuatdulieu/snowflakedemo) — Medallion architecture on Snowflake
+- [SelectNTreeInRF](https://github.com/kythuatdulieu/SelectNTreeInRF) — Random Forest tree count tuning
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/duclinhwork/)
